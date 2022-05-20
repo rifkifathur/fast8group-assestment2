@@ -1,0 +1,26 @@
+#number {
+    background-color: aqua;
+    width: 150px;
+    margin-top: 2px;
+}
+#number > button {
+    width: 50px;
+    height: 50px;
+    background-color: coral;
+    border: solid 1px grey ;
+    border-radius: 50%;
+}
+
+#operator > button{
+    height: 30px;
+    width: 30px;
+    background-color: black;
+    color: coral;
+    border: solid 0.1px grey;
+}
+
+#text{
+    width: 143px;
+    background-color: grey;
+    color: white;
+}
